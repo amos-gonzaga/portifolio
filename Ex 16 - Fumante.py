@@ -1,0 +1,6 @@
+print('E aí seu fumante vagabundo.')
+cigarros=int(input('Quantas pirocas satânicas você saboreia todos os dias?'))
+anos=int(input('E a quantos anos você paga o boquete pro capeta?'))
+perda=cigarros*(anos*365)
+perda=round(perda/60)
+print('Meu caro amigo degustador da pica do tinhoso, você já perdeu ', perda,' horas de vida por conta de seu vício.')

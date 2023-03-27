@@ -1,0 +1,5 @@
+A=float(input('Diga-me o valor de A: '))
+B=float(input('Diga-me o valor de B: '))
+C=float(input('Diga-me o valor de C: '))
+Delta = ((B*B)-4*(A*C))
+print('O valor de Delta é igual a ',Delta)

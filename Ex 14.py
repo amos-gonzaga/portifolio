@@ -1,0 +1,6 @@
+print('Bem vindo a Locadora de Carros Byton ')
+dias=int(input('Diga-me por quantos dias você permanecerá com o carro: '))
+dist=float(input('Diga-me quantos KMs você pretende rodar com ele? '))
+valor=float((dias*90)+(dist*0.2))
+valor=round(valor, 3)
+print('Você terá de pagar ',valor,' R$ pelo aluguel do carro.')
