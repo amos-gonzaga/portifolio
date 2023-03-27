@@ -1,0 +1,5 @@
+print('Esse programa calculará médias de nota.')
+nota1=float(input('Diga-me a primeira nota: '))
+nota2=float(input('Diga-me a segunda nota: '))
+media=((nota1+nota2)/2)
+print('A média de notas desse aluno é igual a ',media,'.')

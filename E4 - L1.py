@@ -1,0 +1,5 @@
+val1=input('Diga-me um valor: ')
+x=int(val1)
+val2=input('Diga-me um segundo valor: ')
+y=int(val2)
+print('A soma de ambos valores é igual a ',y+x,'.')
